@@ -38,7 +38,7 @@ Follow these steps to run the code and obtain covid vaccination project:
 
 Clone the Repository:
 
-git clone https://github.com/samyuktha343/AI_Phase1.git
+git clone https://github.com/samyuktha343/Covid-Vaccination-project.git
 Navigate to the Project Directory:
 
 cd covid project
